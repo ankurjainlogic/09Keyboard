@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\android examples\\09Keyboard1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\hexkbd.xml",
+        "source": "D:\\android examples\\09Keyboard1\\app\\src\\main\\res\\xml\\hexkbd.xml"
+    },
+    {
+        "merged": "D:\\android examples\\09Keyboard1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\popup.xml",
+        "source": "D:\\android examples\\09Keyboard1\\app\\src\\main\\res\\xml\\popup.xml"
+    }
+]

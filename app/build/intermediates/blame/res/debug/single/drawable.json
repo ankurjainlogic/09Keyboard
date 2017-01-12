@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\android examples\\09Keyboard1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hex.png",
+        "source": "D:\\android examples\\09Keyboard1\\app\\src\\main\\res\\drawable\\hex.png"
+    },
+    {
+        "merged": "D:\\android examples\\09Keyboard1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sym_keyboard_return.png",
+        "source": "D:\\android examples\\09Keyboard1\\app\\src\\main\\res\\drawable\\sym_keyboard_return.png"
+    },
+    {
+        "merged": "D:\\android examples\\09Keyboard1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sym_keyboard_delete.png",
+        "source": "D:\\android examples\\09Keyboard1\\app\\src\\main\\res\\drawable\\sym_keyboard_delete.png"
+    },
+    {
+        "merged": "D:\\android examples\\09Keyboard1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\txt.png",
+        "source": "D:\\android examples\\09Keyboard1\\app\\src\\main\\res\\drawable\\txt.png"
+    },
+    {
+        "merged": "D:\\android examples\\09Keyboard1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sym_keyboard_allright.png",
+        "source": "D:\\android examples\\09Keyboard1\\app\\src\\main\\res\\drawable\\sym_keyboard_allright.png"
+    },
+    {
+        "merged": "D:\\android examples\\09Keyboard1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sym_keyboard_right.png",
+        "source": "D:\\android examples\\09Keyboard1\\app\\src\\main\\res\\drawable\\sym_keyboard_right.png"
+    },
+    {
+        "merged": "D:\\android examples\\09Keyboard1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sym_keyboard_left.png",
+        "source": "D:\\android examples\\09Keyboard1\\app\\src\\main\\res\\drawable\\sym_keyboard_left.png"
+    },
+    {
+        "merged": "D:\\android examples\\09Keyboard1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sym_keyboard_allleft.png",
+        "source": "D:\\android examples\\09Keyboard1\\app\\src\\main\\res\\drawable\\sym_keyboard_allleft.png"
+    },
+    {
+        "merged": "D:\\android examples\\09Keyboard1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sym_keyboard_done.png",
+        "source": "D:\\android examples\\09Keyboard1\\app\\src\\main\\res\\drawable\\sym_keyboard_done.png"
+    },
+    {
+        "merged": "D:\\android examples\\09Keyboard1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "D:\\android examples\\09Keyboard1\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    }
+]
